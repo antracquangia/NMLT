@@ -1,3 +1,4 @@
+# chuỗi bằng nhau
 Viết chương trình nhập vào 2 chuỗi và thực hiện so sánh 2 chuỗi xem chúng có “bằng
 nhau” hay không? Biết rằng 2 chuỗi được xem là “bằng nhau” (theo 1 cách đặc biệt) nếu
 như thỏa các điều kiện sau:
