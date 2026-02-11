@@ -45,6 +45,6 @@ Nếu lật từ cuối sách (có trang 4, 5), không cần lật. Nếu lật 
 Đáp án là 0.
 
 # Cách giải:
-    Có 2 cách để lật sách từ đầu trang hoặc từ cuối trang
+Có 2 cách để lật sách từ đầu trang hoặc từ cuối trang
 * Nếu lật từ đầu trang thì số trang cần lật là p/2
 * Nếu lật từ cuối trang thì số trang cần lật là (n-p)/2, trong truong hop n chan, p le là (n-p+1)/2
